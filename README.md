@@ -10,7 +10,7 @@ This is a simple web application that displays a random quote and its author eac
 
 ## Preview
 
-You can view a live demo of this project [here](https://your-demo-link.com).
+You can view a live demo of this project [here](https://jagatheesrm.github.io/Build_a_Random_Quote_Machine/).
 
 ## Getting Started
 
